@@ -1,5 +1,5 @@
 <body>
-<h1>Wikipedia_US_cities_scraping_python<h1>
+<h1>Wikipedia_US_cities_scraping_python</h1>
 
 <p>The notebook scrape Wikipedia in order to find information about the biggest cities in the US</p>
 
