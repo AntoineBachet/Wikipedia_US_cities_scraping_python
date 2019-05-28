@@ -44,7 +44,7 @@
     <p>Area_water: (String) Water area in squared miles and squared km</p>
     <p>Area_metro: (String) Metro area in squared miles and squared km</p>
     <p>Elevation: (String) Elevation in ft and m</p>
-    <p>CSA: (float) CSA</p>
+    <p>CSA: (float) CSA, Combined Statistical Area</p>
     <p>Time_zone: (String) Time zone</p>
     <p>ZIP_code: (String) ZIP codes included in the city</p>
     <p>Area_code: (String) Area code in the city</p>
