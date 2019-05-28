@@ -1,8 +1,9 @@
-# Wikipedia_US_cities_scraping_python
+<body>
+<h1>Wikipedia_US_cities_scraping_python<h1>
 
-The notebook scrape Wikipedia in order to find information about the biggest cities in the US.
+<p>The notebook scrape Wikipedia in order to find information about the biggest cities in the US</p>
 
-### First part:
+<h2>First part:</h2>
 I start by scraping the wikipedia page: https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population \n
 which contain informations about the 314 most populated cities in the US
 
